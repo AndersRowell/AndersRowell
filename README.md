@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AndersRowell
+- 👀 I’m excited for beginning my datascience journey!
+- 🌱 I’m currently studying forestry
+- 📫 How to reach me Rowell.anders@gmail.com
